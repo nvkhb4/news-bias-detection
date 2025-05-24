@@ -1,1 +1,1 @@
-# news-bias-detection
+# textual-bias-detection
